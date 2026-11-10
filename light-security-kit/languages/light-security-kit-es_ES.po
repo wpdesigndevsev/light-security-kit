@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Light Security Kit 1.2.0\n"
+"Report-Msgid-Bugs-To: https://weblowcost.ovh/\n"
+"POT-Creation-Date: 2026-11-10 12:00+0000\n"
+"PO-Revision-Date: 2026-11-10 17:40+0100\n"
+"Last-Translator: webpressdesing <hola@weblowcost.ovh>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.10\n"
+
+msgid "Light Security Kit"
+msgstr "Light Security Kit"
+
+msgid "Light Security"
+msgstr "Seguridad Ligera"
+
+msgid "Check the boxes to enable or disable each protection. Changes are saved when you click the button."
+msgstr "Marca las casillas para activar o desactivar cada protección. Los cambios se guardan al pulsar el botón."
+
+msgid "Disable XML-RPC"
+msgstr "Desactivar XML-RPC"
+
+msgid "Blocks xmlrpc.php to prevent brute force attacks."
+msgstr "Bloquea xmlrpc.php para evitar ataques de fuerza bruta."
+
+msgid "Hide WordPress version"
+msgstr "Ocultar versión de WordPress"
+
+msgid "Removes the tag that shows your WordPress version in the source code."
+msgstr "Elimina la etiqueta que muestra tu versión de WordPress en el código fuente."
+
+msgid "Disable file editor"
+msgstr "Desactivar editor de archivos"
+
+msgid "Prevents editing PHP files of themes and plugins from the dashboard."
+msgstr "Impide editar archivos PHP de temas y plugins desde el panel."
+
+msgid "Clean up the <head>"
+msgstr "Limpiar el <head>"
+
+msgid "Removes unnecessary links (wlwmanifest, shortlink, REST, adjacent posts) to save resources."
+msgstr "Elimina enlaces innecesarios (wlwmanifest, shortlink, REST, adjacent posts) para ahorrar recursos."
+
+msgid "Block REST API for visitors"
+msgstr "Bloquear REST API a visitantes"
+
+msgid "Prevents unauthenticated visitors from using the REST API. May affect the block editor if you are not logged in."
+msgstr "Impide que visitantes no autenticados usen la API REST. Puede afectar al editor de bloques si no has iniciado sesión."
+
+msgid "Block user enumeration"
+msgstr "Bloquear enumeración de usuarios"
+
+msgid "Prevents scanning usernames with ?author=1."
+msgstr "Evita que se puedan escanear nombres de usuario con ?author=1."
+
+msgid "Disable emojis"
+msgstr "Desactivar emojis"
+
+msgid "Removes WordPress emoji scripts to save requests."
+msgstr "Elimina los scripts de emoji de WordPress para ahorrar solicitudes."
+
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+msgid "The REST API is only available to authenticated users."
+msgstr "La API REST solo está disponible para usuarios autenticados."
+
+msgid "Access not allowed."
+msgstr "Acceso no permitido."
+
+msgid "Access blocked"
+msgstr "Acceso bloqueado"

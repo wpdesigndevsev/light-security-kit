@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Light Security Kit 1.2.0\n"
+"Report-Msgid-Bugs-To: https://weblowcost.ovh/\n"
+"POT-Creation-Date: 2026-11-10 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Light Security Kit"
+msgstr ""
+
+msgid "Light Security"
+msgstr ""
+
+msgid "Check the boxes to enable or disable each protection. Changes are saved when you click the button."
+msgstr ""
+
+msgid "Disable XML-RPC"
+msgstr ""
+
+msgid "Blocks xmlrpc.php to prevent brute force attacks."
+msgstr ""
+
+msgid "Hide WordPress version"
+msgstr ""
+
+msgid "Removes the tag that shows your WordPress version in the source code."
+msgstr ""
+
+msgid "Disable file editor"
+msgstr ""
+
+msgid "Prevents editing PHP files of themes and plugins from the dashboard."
+msgstr ""
+
+msgid "Clean up the <head>"
+msgstr ""
+
+msgid "Removes unnecessary links (wlwmanifest, shortlink, REST, adjacent posts) to save resources."
+msgstr ""
+
+msgid "Block REST API for visitors"
+msgstr ""
+
+msgid "Prevents unauthenticated visitors from using the REST API. May affect the block editor if you are not logged in."
+msgstr ""
+
+msgid "Block user enumeration"
+msgstr ""
+
+msgid "Prevents scanning usernames with ?author=1."
+msgstr ""
+
+msgid "Disable emojis"
+msgstr ""
+
+msgid "Removes WordPress emoji scripts to save requests."
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+msgid "The REST API is only available to authenticated users."
+msgstr ""
+
+msgid "Access not allowed."
+msgstr ""
+
+msgid "Access blocked"
+msgstr ""
